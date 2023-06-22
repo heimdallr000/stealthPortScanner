@@ -2,7 +2,8 @@
 A Linux stealth port scanner to bypass the port scan detection
 
 ## Overview
-![overview](https://github.com/heimdallr000/stealthPortScanner/assets/67891766/67a3311d-7045-435b-80f9-20e70c583a72)
+![overview](https://github.com/heimdallr000/stealthPortScanner/assets/67891766/26850f98-1b85-4381-b396-179795b194d8)
+
 
 ## Build
 Before you build the source codes, you need to fill up masked target ports in `scan.cpp`, server port in `server.c`, server IP and server port in `client.c` with your values.
